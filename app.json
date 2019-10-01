@@ -13,14 +13,14 @@
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
-       "value": "521k"
+       "value": "1024k"
     },
     "Window_Refresh": {
        "description": "设置 StreamMinRefresh",
-       "value": "32k"
+       "value": "64k"
     }
   },
-  "website": "https://github.com/1992black/gsnova-heroku",
-  "repository": "https://github.com/1992black/gsnova-heroku",
+  "website": "https://github.com/zyp997/gsnova-heroku",
+  "repository": "https://github.com/zyp997/gsnova-heroku",
   "stack": "container"
  }
